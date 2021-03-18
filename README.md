@@ -1,2 +1,2 @@
 # Training
-This is for github training purpose
+This is for github training reddy
